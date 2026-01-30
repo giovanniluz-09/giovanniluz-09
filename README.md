@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 Estudante de programação e apaixonado por tecnologia. Atualmente estudo à noite em uma Etec e dedico meu tempo livre para aprender mais sobre desenvolvimento backend e construir projetos práticos.</p>
+<p align="left">🎓 Estudante de programação e apaixonado por tecnologia. Atualmente estudo à noite na Fatec Campinas no curso de Gestão da Tecnologia da Informação e dedico meu tempo livre para aprender mais sobre desenvolvimento backend e construir projetos práticos.</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">- 💻 Tenho conhecimentos em JavaScript (Node.js)  <br>- 🛠️ Meu foco está em entender como sistemas funcionam "por trás das cortinas" e desenvolver aplicações escaláveis.  <br>- 🎯 Interesses: estratégia, raciocínio lógico, livros sobre poder e tomada de decisão. <br><br>🧩 Habilidades Técnicas<br>- Linguagens: JavaScript (Node.js), PHP, C++ (Arduino).<br>- Conceitos: lógica de programação, APIs REST, versionamento com Git/GitHub.  <br>- Objetivo atual: fortalecer hard skills em backend e iniciar projetos práticos.  <br><br>📈 Objetivos<br>- Desenvolver projetos de backend para portfólio.  <br>- Contribuir em projetos open source no futuro.  <br>- Aprimorar conhecimentos em estruturas de dados, banco de dados e boas práticas de arquitetura.  <br><br>🌍 Curiosidades<br>- Gosto de jogos e leituras que desafiam o pensamento estratégico.  <br>- Me inspiro em professores e pessoas que compartilham conhecimento.  <br>- Estou em busca de evolução constante, tanto na área acadêmica quanto profissional.  <br><br>---<br><br>📫 Você pode me encontrar por aqui no GitHub, onde vou começar a publicar meus projetos e evoluções na programação!</p>
+<p align="left">- 💻 Tenho conhecimentos em JavaScript (Node.js)  <br>- 🛠️ Meu foco está em entender como sistemas funcionam "por trás das cortinas" e desenvolver aplicações escaláveis.  <br>- 🎯 Interesses: estratégia, raciocínio lógico, livros sobre poder e tomada de decisão. <br><br>🧩 Habilidades Técnicas<br>- Linguagens: JavaScript (Node.js), PHP, C++ (Arduino), Python.<br>- Conceitos: lógica de programação, APIs REST, versionamento com Git/GitHub.  <br>- Objetivo atual: fortalecer hard skills em backend e iniciar projetos práticos.  <br><br>📈 Objetivos<br>- Desenvolver projetos para portfólio.  <br>- Contribuir em projetos open source no futuro.  <br>- Aprimorar conhecimentos em estruturas de dados, banco de dados e boas práticas de arquitetura.  <br><br>🌍 Curiosidades<br>- Gosto de jogos e leituras que desafiam o pensamento estratégico.  <br>- Me inspiro em professores e pessoas que compartilham conhecimento.  <br>- Estou em busca de evolução constante, tanto na área acadêmica quanto profissional.  
 
 ###
 
@@ -28,6 +28,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
   <img width="12" />
