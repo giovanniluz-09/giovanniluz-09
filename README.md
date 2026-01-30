@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">- 💻 Tenho conhecimentos em JavaScript (Node.js)  <br>- 🛠️ Meu foco está em entender como sistemas funcionam "por trás das cortinas" e desenvolver aplicações escaláveis.  <br>- 🎯 Interesses: estratégia, raciocínio lógico, livros sobre poder e tomada de decisão. <br><br>🧩 Habilidades Técnicas<br>- Linguagens: JavaScript (Node.js), PHP, C++ (Arduino), Python.<br>- Conceitos: lógica de programação, APIs REST, versionamento com Git/GitHub.  <br>- Objetivo atual: fortalecer hard skills em backend e iniciar projetos práticos.  <br><br>📈 Objetivos<br>- Desenvolver projetos para portfólio.  <br>- Contribuir em projetos open source no futuro.  <br>- Aprimorar conhecimentos em estruturas de dados, banco de dados e boas práticas de arquitetura.  <br><br>🌍 Curiosidades<br>- Gosto de jogos e leituras que desafiam o pensamento estratégico.  <br>- Me inspiro em professores e pessoas que compartilham conhecimento.  <br>- Estou em busca de evolução constante, tanto na área acadêmica quanto profissional.  
+<p align="left">- 🛠️ Meu foco está em entender como sistemas funcionam "por trás das cortinas" e desenvolver aplicações escaláveis.  <br>- 🎯 Interesses: estratégia, raciocínio lógico, livros sobre poder e tomada de decisão. <br><br>🧩 Habilidades Técnicas<br>- Linguagens: JavaScript (Node.js), Python.<br>- Conceitos: lógica de programação, APIs REST, versionamento com Git/GitHub.  <br>- Objetivo atual: fortalecer hard skills em backend e iniciar projetos práticos.  <br><br>📈 Objetivos<br>- Desenvolver projetos para portfólio.  <br>- Contribuir em projetos open source no futuro.  <br>- Aprimorar conhecimentos em estruturas de dados, banco de dados e boas práticas de arquitetura.  <br><br>🌍 Curiosidades<br>- Gosto de jogos e leituras que desafiam o pensamento estratégico.  <br>- Me inspiro em professores e pessoas que compartilham conhecimento.  <br>- Estou em busca de evolução constante, tanto na área acadêmica quanto profissional.  
 
 ###
 
@@ -31,15 +31,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="60" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="60" alt="arduino logo"  />
 </div>
 
 ###
